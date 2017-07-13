@@ -1,5 +1,5 @@
 # Practice
-My Practice Place
+  Hey! just sayin' Hi!
 
 ## What the project does:
   This is a place for me to get to know git and github so I can be proficient in using both for future projects. 
