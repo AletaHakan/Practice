@@ -15,3 +15,6 @@
 
 ## Who maintains and contributes to the project: 
   I maintain and contribue to the project. 
+  
+  ## 15-July-2017 Updates:
+    Just adding a little more about me and info on the reason for the the changes. 
